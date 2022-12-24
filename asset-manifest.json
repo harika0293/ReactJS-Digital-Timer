@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Digital-Timer/static/css/main.cb68dad9.chunk.css",
+    "main.js": "/ReactJS-Digital-Timer/static/js/main.a6df6490.chunk.js",
+    "main.js.map": "/ReactJS-Digital-Timer/static/js/main.a6df6490.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Digital-Timer/static/js/runtime-main.bd1843cb.js",
+    "runtime-main.js.map": "/ReactJS-Digital-Timer/static/js/runtime-main.bd1843cb.js.map",
+    "static/css/2.12900222.chunk.css": "/ReactJS-Digital-Timer/static/css/2.12900222.chunk.css",
+    "static/js/2.9d776931.chunk.js": "/ReactJS-Digital-Timer/static/js/2.9d776931.chunk.js",
+    "static/js/2.9d776931.chunk.js.map": "/ReactJS-Digital-Timer/static/js/2.9d776931.chunk.js.map",
+    "index.html": "/ReactJS-Digital-Timer/index.html",
+    "static/css/2.12900222.chunk.css.map": "/ReactJS-Digital-Timer/static/css/2.12900222.chunk.css.map",
+    "static/css/main.cb68dad9.chunk.css.map": "/ReactJS-Digital-Timer/static/css/main.cb68dad9.chunk.css.map",
+    "static/js/2.9d776931.chunk.js.LICENSE.txt": "/ReactJS-Digital-Timer/static/js/2.9d776931.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd1843cb.js",
+    "static/css/2.12900222.chunk.css",
+    "static/js/2.9d776931.chunk.js",
+    "static/css/main.cb68dad9.chunk.css",
+    "static/js/main.a6df6490.chunk.js"
+  ]
+}
