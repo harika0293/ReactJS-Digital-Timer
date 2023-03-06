@@ -1,4 +1,4 @@
-# LIVE DEMO :- <a href="https://vivek-digitalclock.netlify.app/"> Digital Clock</a>
+
  **Digital Timer** 
 
 ### Refer to image below:
